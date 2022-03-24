@@ -1,4 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
+  console.log(window.innerWidth);
   if (window.innerWidth > 992) {
     document
       .querySelectorAll(".navbar .nav-item")
