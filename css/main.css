@@ -1,0 +1,40 @@
+nav .logo-box {
+  display: flex;
+  align-items: center;
+}
+
+nav .logo-title {
+  font-size: 26px;
+  margin-left: 4px;
+}
+
+.border-none {
+  border: none;
+}
+
+.bg-purple {
+  background-color: #754ffe;
+}
+
+.bg-light-yellow {
+  background-color: #ffeeda;
+}
+
+.bg-light-gray {
+  background-color: #f5f4f8;
+}
+
+.color-yellow {
+  color: #ffaa46;
+}
+
+.owl-nav {
+  text-align: center;
+}
+
+.owl-prev > span,
+.owl-next > span {
+  margin: 0 20px;
+  font-size: 3em;
+  opacity: 0.7;
+}
